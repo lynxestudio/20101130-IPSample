@@ -59,5 +59,5 @@ byte[] b = ip.GetAddressBytes();
 Por último utilizamos las propiedades estáticas <i>IPAddress.Loopback</i> y <i>IPAddress.Broadcast</i> para imprimir la dirección Loopback y de Broadcast respectivamente.
 Al compilar y ejecutar el programa obtendremos algo similar a lo que se muestra en la siguiente imagen:
 </p>
-<img src="images/getip.png">
+<img src="images/image1.png">
 
